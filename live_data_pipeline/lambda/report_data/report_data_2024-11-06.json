@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "total_transaction_value": 3066.0099999999998,
+    "transactions_by_truck": [
+      {
+        "truck_id": 5,
+        "total_transaction_value": 486.0,
+        "count_transactions": 89
+      },
+      {
+        "truck_id": 3,
+        "total_transaction_value": 400.29,
+        "count_transactions": 71
+      },
+      {
+        "truck_id": 1,
+        "total_transaction_value": 584.4,
+        "count_transactions": 74
+      },
+      {
+        "truck_id": 4,
+        "total_transaction_value": 93.66,
+        "count_transactions": 34
+      },
+      {
+        "truck_id": 6,
+        "total_transaction_value": 960.36,
+        "count_transactions": 164
+      },
+      {
+        "truck_id": 2,
+        "total_transaction_value": 541.3,
+        "count_transactions": 68
+      }
+    ]
+  }
+}
